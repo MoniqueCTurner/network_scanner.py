@@ -1,3 +1,15 @@
 # Network Scanner
 
 A simple network scanner built with Python using Scapy.
+
+## Requirements
+
+- Python 3.x
+- Scapy library
+
+## Installation
+
+Install the required library:
+
+```bash
+pip install scapy
